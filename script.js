@@ -14,7 +14,7 @@ function Theme()
 (
 function () 
 {
-    if (localStorage.getItem('theme') === 'T2') {
+    if (localStorage.getItem('theme') === 'T1') {
         setTheme('T2');
     } else {
         setTheme('T1');
