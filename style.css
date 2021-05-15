@@ -72,14 +72,14 @@
     text-align: right;
     margin: 20px 27px 0px 100px;
 }
-.T1 
+.T2 
 {
     background-image: url(css/p2.jpg);
     background-size: cover;
 }
-.T2
+.T1
 {
-    background-image: url(css/P0.jpg);
+    background-image: url(css/P1.jpg);
     background-size: cover;
 }
   
